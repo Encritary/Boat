@@ -1,0 +1,6 @@
+name: Boat
+main: encritary\boat\Loader
+src-namespace-prefix: encritary\boat
+version: 1.0.0
+api: 5.0.0
+author: Encritary
